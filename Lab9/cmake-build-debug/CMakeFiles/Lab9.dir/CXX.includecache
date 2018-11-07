@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/Car.h
+string
+-
+
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedList.h
+LinkedNode.h
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedNode.h
+string
+-
+
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedListMap.h
+string
+-
+Car.h
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/Car.h
+LinkedList.h
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedList.h
+Map.h
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/Map.h
+
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedNode.h
+string
+-
+Car.h
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/Car.h
+
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/Map.h
+string
+-
+Car.h
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/Car.h
+
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/MapTest.cpp
+iostream
+-
+Map.h
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/Map.h
+TestLib.h
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/TestLib.h
+Car.h
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/Car.h
+LinkedListMap.h
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedListMap.h
+
+/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/TestLib.h
+
