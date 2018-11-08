@@ -20,20 +20,22 @@
 
  //Destructor
  LinkedListMap::~LinkedListMap() {
-//     while(head!= nullptr){
-//
-//         temp=head;
-//         head = head->getNext();
-//         delete temp;
-//         temp= nullptr;
-//         size=size-1;
-//
-//
-//
-//
-//     }
-//     delete end;
-//     end= nullptr;
+     while(head!= nullptr){
+
+         temp=head;
+         head = head->getNext();
+         delete temp;
+
+         size=size-1;
+
+
+
+
+     }
+
+    head= nullptr;
+     temp= nullptr;
+    end= nullptr;
      //can I recreate remove value at??? in Child class
 
 
