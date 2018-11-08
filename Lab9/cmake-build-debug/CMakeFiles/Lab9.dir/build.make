@@ -43,10 +43,10 @@ RM = /cygdrive/c/Users/Sonya/.CLion2018.2/system/cygwin_cmake/bin/cmake.exe -E r
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9"
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug"
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Lab9.dir/depend.make
@@ -59,68 +59,68 @@ include CMakeFiles/Lab9.dir/flags.make
 
 CMakeFiles/Lab9.dir/Car.cpp.o: CMakeFiles/Lab9.dir/flags.make
 CMakeFiles/Lab9.dir/Car.cpp.o: ../Car.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab9.dir/Car.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab9.dir/Car.cpp.o -c "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/Car.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab9.dir/Car.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab9.dir/Car.cpp.o -c "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/Car.cpp"
 
 CMakeFiles/Lab9.dir/Car.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab9.dir/Car.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/Car.cpp" > CMakeFiles/Lab9.dir/Car.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/Car.cpp" > CMakeFiles/Lab9.dir/Car.cpp.i
 
 CMakeFiles/Lab9.dir/Car.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab9.dir/Car.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/Car.cpp" -o CMakeFiles/Lab9.dir/Car.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/Car.cpp" -o CMakeFiles/Lab9.dir/Car.cpp.s
 
 CMakeFiles/Lab9.dir/LinkedNode.cpp.o: CMakeFiles/Lab9.dir/flags.make
 CMakeFiles/Lab9.dir/LinkedNode.cpp.o: ../LinkedNode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab9.dir/LinkedNode.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab9.dir/LinkedNode.cpp.o -c "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedNode.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab9.dir/LinkedNode.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab9.dir/LinkedNode.cpp.o -c "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/LinkedNode.cpp"
 
 CMakeFiles/Lab9.dir/LinkedNode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab9.dir/LinkedNode.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedNode.cpp" > CMakeFiles/Lab9.dir/LinkedNode.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/LinkedNode.cpp" > CMakeFiles/Lab9.dir/LinkedNode.cpp.i
 
 CMakeFiles/Lab9.dir/LinkedNode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab9.dir/LinkedNode.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedNode.cpp" -o CMakeFiles/Lab9.dir/LinkedNode.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/LinkedNode.cpp" -o CMakeFiles/Lab9.dir/LinkedNode.cpp.s
 
 CMakeFiles/Lab9.dir/MapTest.cpp.o: CMakeFiles/Lab9.dir/flags.make
 CMakeFiles/Lab9.dir/MapTest.cpp.o: ../MapTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lab9.dir/MapTest.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab9.dir/MapTest.cpp.o -c "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/MapTest.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lab9.dir/MapTest.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab9.dir/MapTest.cpp.o -c "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/MapTest.cpp"
 
 CMakeFiles/Lab9.dir/MapTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab9.dir/MapTest.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/MapTest.cpp" > CMakeFiles/Lab9.dir/MapTest.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/MapTest.cpp" > CMakeFiles/Lab9.dir/MapTest.cpp.i
 
 CMakeFiles/Lab9.dir/MapTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab9.dir/MapTest.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/MapTest.cpp" -o CMakeFiles/Lab9.dir/MapTest.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/MapTest.cpp" -o CMakeFiles/Lab9.dir/MapTest.cpp.s
 
 CMakeFiles/Lab9.dir/TestLib.cpp.o: CMakeFiles/Lab9.dir/flags.make
 CMakeFiles/Lab9.dir/TestLib.cpp.o: ../TestLib.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Lab9.dir/TestLib.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab9.dir/TestLib.cpp.o -c "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/TestLib.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Lab9.dir/TestLib.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab9.dir/TestLib.cpp.o -c "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/TestLib.cpp"
 
 CMakeFiles/Lab9.dir/TestLib.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab9.dir/TestLib.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/TestLib.cpp" > CMakeFiles/Lab9.dir/TestLib.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/TestLib.cpp" > CMakeFiles/Lab9.dir/TestLib.cpp.i
 
 CMakeFiles/Lab9.dir/TestLib.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab9.dir/TestLib.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/TestLib.cpp" -o CMakeFiles/Lab9.dir/TestLib.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/TestLib.cpp" -o CMakeFiles/Lab9.dir/TestLib.cpp.s
 
 CMakeFiles/Lab9.dir/LinkedListMap.cpp.o: CMakeFiles/Lab9.dir/flags.make
 CMakeFiles/Lab9.dir/LinkedListMap.cpp.o: ../LinkedListMap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lab9.dir/LinkedListMap.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab9.dir/LinkedListMap.cpp.o -c "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedListMap.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lab9.dir/LinkedListMap.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab9.dir/LinkedListMap.cpp.o -c "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/LinkedListMap.cpp"
 
 CMakeFiles/Lab9.dir/LinkedListMap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab9.dir/LinkedListMap.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedListMap.cpp" > CMakeFiles/Lab9.dir/LinkedListMap.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/LinkedListMap.cpp" > CMakeFiles/Lab9.dir/LinkedListMap.cpp.i
 
 CMakeFiles/Lab9.dir/LinkedListMap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab9.dir/LinkedListMap.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/LinkedListMap.cpp" -o CMakeFiles/Lab9.dir/LinkedListMap.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/LinkedListMap.cpp" -o CMakeFiles/Lab9.dir/LinkedListMap.cpp.s
 
 # Object files for target Lab9
 Lab9_OBJECTS = \
@@ -140,7 +140,7 @@ Lab9.exe: CMakeFiles/Lab9.dir/TestLib.cpp.o
 Lab9.exe: CMakeFiles/Lab9.dir/LinkedListMap.cpp.o
 Lab9.exe: CMakeFiles/Lab9.dir/build.make
 Lab9.exe: CMakeFiles/Lab9.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Lab9.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Lab9.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Lab9.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -153,6 +153,6 @@ CMakeFiles/Lab9.dir/clean:
 .PHONY : CMakeFiles/Lab9.dir/clean
 
 CMakeFiles/Lab9.dir/depend:
-	cd "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9" "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9" "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug" "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug" "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug/CMakeFiles/Lab9.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9" "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9" "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug" "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug" "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug/CMakeFiles/Lab9.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Lab9.dir/depend
 

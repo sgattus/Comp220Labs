@@ -59,10 +59,10 @@ RM = /cygdrive/c/Users/Sonya/.CLion2018.2/system/cygwin_cmake/bin/cmake.exe -E r
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9"
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug"
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug"
 
 #=============================================================================
 # Target rules for target CMakeFiles/Lab9.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab
 CMakeFiles/Lab9.dir/all:
 	$(MAKE) -f CMakeFiles/Lab9.dir/build.make CMakeFiles/Lab9.dir/depend
 	$(MAKE) -f CMakeFiles/Lab9.dir/build.make CMakeFiles/Lab9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4,5,6 "Built target Lab9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4,5,6 "Built target Lab9"
 .PHONY : CMakeFiles/Lab9.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/Lab9.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Lab9.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug/CMakeFiles" 6
+	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug/CMakeFiles" 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Lab9.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/Lab9/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/Sonya/Documents/Fall2018/Comp 220/Lab9/TestGit/Lab9/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Lab9.dir/rule
 
 # Convenience name for target.
